@@ -11,5 +11,6 @@ Do simple analysis (find average prices, count listings, check reviews).
 Show results with charts and graphs.
 
 **picture of gui(graphic user interface)**
-"C:\Users\varad\Pictures\Screenshots\Screenshot 2026-07-25 174934.png"
+<img width="382" height="256" alt="image" src="https://github.com/user-attachments/assets/796484ed-89d2-49c1-8716-9db7fc0b265a" />
+
 as we can above image all values like reviews,number of night stay,pricing is shown just after entering all values we have to click add listing then the click on showresults. 
